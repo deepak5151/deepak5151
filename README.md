@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Deepak Kapoor
+- 👀 I’m interested in Frontend Developer or SDE role in a MNC
+- 🌱 I’m currently learning Full Stack Development and Data Structures and Algorithms
+- 📫 You can react out to me at https://www.linkedin.com/in/deepak-kapoor-1905/
